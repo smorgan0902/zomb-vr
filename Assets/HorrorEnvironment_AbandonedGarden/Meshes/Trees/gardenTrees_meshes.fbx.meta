@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: d39f3655bfb51cc4ca48e168db269559
+timeCreated: 1437472125
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: dryRoot_A
+    100002: dryRoot_B
+    100004: dryTree_A
+    100006: dryTree_B
+    100008: dryTree_C
+    100010: //RootNode
+    100012: treeMaple_A
+    100014: treeMaple_B
+    100016: treeMaple_C
+    100018: Plane.005
+    100020: Plane.006
+    100022: Plane.007
+    100024: BezierCurve.011
+    100026: dryRoot_A_1
+    100028: dryRoot_A_2
+    100030: dryRoot_B_1
+    100032: dryRoot_B_2
+    100034: dryTree_A_1
+    100036: dryTree_A_2
+    100038: dryTree_B_1
+    100040: dryTree_B_2
+    100042: dryTree_C_1
+    100044: dryTree_C_2
+    100046: treeMaple_A_1
+    100048: treeMaple_A_2
+    100050: treeMaple_B_1
+    100052: treeMaple_B_2
+    100054: treeMaple_C_1
+    100056: treeMaple_C_2
+    400000: dryRoot_A
+    400002: dryRoot_B
+    400004: dryTree_A
+    400006: dryTree_B
+    400008: dryTree_C
+    400010: //RootNode
+    400012: treeMaple_A
+    400014: treeMaple_B
+    400016: treeMaple_C
+    400018: Plane.005
+    400020: Plane.006
+    400022: Plane.007
+    400024: BezierCurve.011
+    400026: dryRoot_A_1
+    400028: dryRoot_A_2
+    400030: dryRoot_B_1
+    400032: dryRoot_B_2
+    400034: dryTree_A_1
+    400036: dryTree_A_2
+    400038: dryTree_B_1
+    400040: dryTree_B_2
+    400042: dryTree_C_1
+    400044: dryTree_C_2
+    400046: treeMaple_A_1
+    400048: treeMaple_A_2
+    400050: treeMaple_B_1
+    400052: treeMaple_B_2
+    400054: treeMaple_C_1
+    400056: treeMaple_C_2
+    2300000: dryRoot_A
+    2300002: dryRoot_B
+    2300004: dryTree_A
+    2300006: dryTree_B
+    2300008: dryTree_C
+    2300010: treeMaple_A
+    2300012: treeMaple_B
+    2300014: treeMaple_C
+    2300016: Plane.005
+    2300018: Plane.006
+    2300020: Plane.007
+    2300022: BezierCurve.011
+    2300024: dryRoot_A_1
+    2300026: dryRoot_A_2
+    2300028: dryRoot_B_1
+    2300030: dryRoot_B_2
+    2300032: dryTree_A_1
+    2300034: dryTree_A_2
+    2300036: dryTree_B_1
+    2300038: dryTree_B_2
+    2300040: dryTree_C_1
+    2300042: dryTree_C_2
+    2300044: treeMaple_A_1
+    2300046: treeMaple_A_2
+    2300048: treeMaple_B_1
+    2300050: treeMaple_B_2
+    2300052: treeMaple_C_1
+    2300054: treeMaple_C_2
+    3300000: dryRoot_A
+    3300002: dryRoot_B
+    3300004: dryTree_A
+    3300006: dryTree_B
+    3300008: dryTree_C
+    3300010: treeMaple_A
+    3300012: treeMaple_B
+    3300014: treeMaple_C
+    3300016: Plane.005
+    3300018: Plane.006
+    3300020: Plane.007
+    3300022: BezierCurve.011
+    3300024: dryRoot_A_1
+    3300026: dryRoot_A_2
+    3300028: dryRoot_B_1
+    3300030: dryRoot_B_2
+    3300032: dryTree_A_1
+    3300034: dryTree_A_2
+    3300036: dryTree_B_1
+    3300038: dryTree_B_2
+    3300040: dryTree_C_1
+    3300042: dryTree_C_2
+    3300044: treeMaple_A_1
+    3300046: treeMaple_A_2
+    3300048: treeMaple_B_1
+    3300050: treeMaple_B_2
+    3300052: treeMaple_C_1
+    3300054: treeMaple_C_2
+    4300000: dryRoot_A
+    4300002: dryRoot_B
+    4300004: dryTree_A
+    4300006: dryTree_C
+    4300008: dryTree_B
+    4300010: treeMaple_C
+    4300012: treeMaple_B
+    4300014: treeMaple_A
+    4300016: Plane.007
+    4300018: dryRoot_A_2
+    4300020: dryRoot_B_2
+    4300022: dryTree_A_2
+    4300024: dryTree_C_2
+    4300026: dryTree_B_2
+    4300028: treeMaple_C_2
+    4300030: treeMaple_B_2
+    4300032: treeMaple_A_2
+    4300034: treeMaple_A_1
+    4300036: treeMaple_B_1
+    4300038: treeMaple_C_1
+    4300040: dryTree_B_1
+    4300042: dryTree_C_1
+    4300044: dryTree_A_1
+    4300046: dryRoot_B_1
+    4300048: dryRoot_A_1
+    4300050: BezierCurve.011
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
